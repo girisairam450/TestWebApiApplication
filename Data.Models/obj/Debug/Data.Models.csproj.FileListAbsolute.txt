@@ -1,0 +1,5 @@
+E:\DotNet\TestWebApiApplication\Data.Models\bin\Debug\Data.Models.dll
+E:\DotNet\TestWebApiApplication\Data.Models\bin\Debug\Data.Models.pdb
+E:\DotNet\TestWebApiApplication\Data.Models\obj\Debug\Data.Models.dll
+E:\DotNet\TestWebApiApplication\Data.Models\obj\Debug\Data.Models.pdb
+E:\DotNet\TestWebApiApplication\Data.Models\obj\Debug\Data.Models.csprojResolveAssemblyReference.cache

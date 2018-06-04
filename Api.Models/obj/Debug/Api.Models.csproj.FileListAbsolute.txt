@@ -1,0 +1,5 @@
+E:\DotNet\TestWebApiApplication\Api.Models\bin\Debug\Api.Models.dll
+E:\DotNet\TestWebApiApplication\Api.Models\bin\Debug\Api.Models.pdb
+E:\DotNet\TestWebApiApplication\Api.Models\obj\Debug\Api.Models.dll
+E:\DotNet\TestWebApiApplication\Api.Models\obj\Debug\Api.Models.pdb
+E:\DotNet\TestWebApiApplication\Api.Models\obj\Debug\Api.Models.csprojResolveAssemblyReference.cache

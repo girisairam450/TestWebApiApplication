@@ -1,0 +1,11 @@
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Facade.dll
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Facade.pdb
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Api.Models.dll
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Contracts.dll
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Data.Models.dll
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Api.Models.pdb
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Contracts.pdb
+E:\DotNet\TestWebApiApplication\Facade\bin\Debug\Data.Models.pdb
+E:\DotNet\TestWebApiApplication\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+E:\DotNet\TestWebApiApplication\Facade\obj\Debug\Facade.dll
+E:\DotNet\TestWebApiApplication\Facade\obj\Debug\Facade.pdb

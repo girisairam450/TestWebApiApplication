@@ -1,0 +1,9 @@
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Contracts.dll
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Contracts.pdb
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Api.Models.dll
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Data.Models.dll
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Api.Models.pdb
+E:\DotNet\TestWebApiApplication\Contracts\bin\Debug\Data.Models.pdb
+E:\DotNet\TestWebApiApplication\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+E:\DotNet\TestWebApiApplication\Contracts\obj\Debug\Contracts.dll
+E:\DotNet\TestWebApiApplication\Contracts\obj\Debug\Contracts.pdb
